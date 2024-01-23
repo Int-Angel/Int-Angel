@@ -2,7 +2,8 @@
 
 My name is Angel Padilla Esqueda and I'm a CS Student at Tecnológico de Monterrey, I'm passionate about the development of technological projects and learning new things. </br>
 
-Currently building [Elev8](https://www.eleveight.site)
+Currently building Tabdock.
+Project [Elev8](https://www.eleveight.site)
 
 ## Cool Projects
 <table align="center">
